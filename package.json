@@ -1,5 +1,5 @@
 {
-  "homepage": "https://aperaba.github.io/lazy-loading/",
+  "homepage": "https://aperaba.github.io/lazy-loading",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
